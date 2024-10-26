@@ -16,14 +16,28 @@ public class Operadores {
                 // concatenacao = "1"+(1+1+1);
                 // System.out.println(concatenacao);
 
-                int numero = 5;
-                System.out.println( numero);
+                // int numero = 5;
+                // System.out.println( numero);
 
-                numero = - numero;
+                // numero = - numero;
+                // System.out.println(numero);
+
+                // numero = numero * -1;
+
+                // System.out.println(numero);
+
+
+                int numero = 10;
+
+                 numero++;
                 System.out.println(numero);
 
-                numero = numero * -1;
+                int numero2 = 10;
+                numero2--;
+                System.out.println(numero2);
 
-                System.out.println(numero);
+                boolean  verdadeiro = true;
+
+                System.out.println(!verdadeiro);
         }
 }
