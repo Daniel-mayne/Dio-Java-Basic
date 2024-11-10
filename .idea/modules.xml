@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Calculadora.java/Calculadora.java.iml" filepath="$PROJECT_DIR$/Calculadora.java/Calculadora.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Dio-Java-Basic.iml" filepath="$PROJECT_DIR$/.idea/Dio-Java-Basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Escopo/Escopo.iml" filepath="$PROJECT_DIR$/Escopo/Escopo.iml" />
@@ -12,6 +13,9 @@
       <module fileurl="file://$PROJECT_DIR$/java-anatomia-classes/java-anatomia-classes.iml" filepath="$PROJECT_DIR$/java-anatomia-classes/java-anatomia-classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/operadores/operadores.iml" filepath="$PROJECT_DIR$/operadores/operadores.iml" />
       <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/OperadoresCondicionais.iml" filepath="$PROJECT_DIR$/OperadoresCondicionais.iml" />
+>>>>>>> 8d04f4c776d03bb974d4ac8edd241d39a3fbb00c
     </modules>
   </component>
 </project>
